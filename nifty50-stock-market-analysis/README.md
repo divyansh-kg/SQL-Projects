@@ -51,9 +51,17 @@ return patterns, trading activity, volatility, and risk-adjusted performance met
 - Data Type Conversion
 - Filtering & Sorting
 
+## Key Findings
+- SBI recorded the highest trading activity among the selected stocks.
+- Sun Pharma demonstrated strong risk-adjusted return behavior with comparatively lower volatility.
+- L&T exhibited the widest closing price range during the analysis period.
+
 ## Project Structure
+
 ```text
 nifty50-stock-market-analysis/
 │
 ├── README.md
 ├── stock_market_analysis.sql
+├── dataset/
+│   └── stock_data.csv
